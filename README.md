@@ -116,7 +116,6 @@ make test_objects
 ./test_objects
 ```
 
-<img width="1600" height="425" alt="image" src="https://github.com/user-attachments/assets/c7b25ff9-d215-4198-8907-5c66eafcc9d5" />
 
 
 Expected checks:
@@ -131,7 +130,6 @@ Useful command:
 find .pes/objects -type f
 ```
 
-<img width="1600" height="282" alt="image" src="https://github.com/user-attachments/assets/91c7d7e8-02af-4a27-9387-50c5de20a297" />
 
 
 ---
@@ -203,7 +201,6 @@ make test_tree
 ./test_tree
 ```
 
-<img width="1278" height="346" alt="image" src="https://github.com/user-attachments/assets/ca95d84d-0109-4edc-8870-d84d1e23da15" />
 
 
 
@@ -234,7 +231,6 @@ To inspect the raw binary object:
 xxd .pes/objects/02/1657cde88428337031b3a946b7d1253ec80a7893aaa22dc4c2332ac201b2d3 | head -20
 ```
 
-<img width="1600" height="418" alt="image" src="https://github.com/user-attachments/assets/38e1da3d-dbef-46c4-90e8-dd5a94bb760e" />
 
 
 ---
@@ -274,3 +270,4 @@ find .pes/objects -type f
 
 Vivaan
 PES1UG24AM071
+
